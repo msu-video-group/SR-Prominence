@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "SR-Prominence"
+repository-code: "https://github.com/msu-video-group/SR-Prominence"
+license: MIT
+authors:
+  - family-names: Molodetskikh
+    given-names: Ivan
+  - family-names: Malyshev
+    given-names: Kirill
+  - family-names: Mirgaleev
+    given-names: Mark
+  - family-names: Zagainov
+    given-names: Nikita
+  - family-names: Bogatyrev
+    given-names: Evgeney
+  - family-names: Vatolin
+    given-names: Dmitriy
+preferred-citation:
+  type: article
+  title: "SR-Prominence: A Crowdsourced Protocol and Dataset Suite for Perceptually-Weighted Super-Resolution Artifact Evaluation"
+  authors:
+    - family-names: Molodetskikh
+      given-names: Ivan
+    - family-names: Malyshev
+      given-names: Kirill
+    - family-names: Mirgaleev
+      given-names: Mark
+    - family-names: Zagainov
+      given-names: Nikita
+    - family-names: Bogatyrev
+      given-names: Evgeney
+    - family-names: Vatolin
+      given-names: Dmitriy
+  year: 2026
+  journal: "arXiv preprint arXiv:2605.14847"
+  doi: "10.48550/arXiv.2605.14847"
+  url: "https://arxiv.org/abs/2605.14847"
